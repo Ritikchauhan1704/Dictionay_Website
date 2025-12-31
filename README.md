@@ -2,7 +2,7 @@
 
 A modern, responsive dictionary web application built with React, TypeScript, and Tailwind CSS. Search for word definitions, listen to pronunciations, and save your favorite words.
 
-## ✨ Features
+##  Features
 
 - 🔍 Search for word definitions
 - 🔊 Listen to word pronunciations
@@ -10,7 +10,7 @@ A modern, responsive dictionary web application built with React, TypeScript, an
 - 💾 Save favorite words
 - 📱 Fully responsive design
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone the repository
 2. Install dependencies:
